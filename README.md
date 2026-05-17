@@ -23,13 +23,13 @@
 
 
 <p align="center">
-  <img src="./assets/mira-divider.svg" alt="Mira animated divider" />
+  <img src="./assets/Robecosystem-divider.svg" alt="Robecosystem animated divider" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="./assets/mira-signal.svg" alt="Mira active domains" />
+  <img src="./assets/Robecosystem-signal.svg" alt="Robecosystem active domains" />
 </p>
 
 <br />
