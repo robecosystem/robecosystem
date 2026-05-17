@@ -23,13 +23,13 @@
 
 
 <p align="center">
-  <img src="./assets/Robecosystem-divider.svg" alt="Robecosystem animated divider" />
+  <img src="./assets/robecosystem-divider.svg" alt="robecosystem animated divider" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="./assets/Robecosystem-signal.svg" alt="Robecosystem active domains" />
+  <img src="./assets/robecosystem-signal.svg" alt="robecosystem active domains" />
 </p>
 
 <br />
