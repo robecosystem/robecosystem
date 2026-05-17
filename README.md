@@ -1,7 +1,7 @@
 ---
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=No+ othe+sign+Just+ROBOTIC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=NOSIGN+JUST+ROBOTIC+e-Lab" alt="Typing SVG" />
   </a>
   <br/>
 
@@ -17,6 +17,9 @@
 
   <img src="https://count.getloli.com/get/@HaroldMate1?theme=minecraft" alt="Minecraft Counter" />
 </div>
+
+
+---
 
 
 ---
