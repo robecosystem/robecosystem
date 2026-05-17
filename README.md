@@ -22,16 +22,6 @@
 ---
 
 
-<p align="center">
-  <img src="./assets/robecosystem-divider.svg" alt="robecosystem animated divider" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="./assets/robecosystem-signal.svg" alt="robecosystem active domains" />
-</p>
-
 <br />
 
 <p align="left">
