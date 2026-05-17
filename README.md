@@ -22,7 +22,31 @@
 ---
 
 
----
+<p align="center">
+  <img src="./assets/mira-divider.svg" alt="Mira animated divider" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="./assets/mira-signal.svg" alt="Mira active domains" />
+</p>
+
+<br />
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,postgres,docker,linux,bash,github" alt="Core stack icons" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,tailwind" alt="Web stack icons" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rust,go,solidity" alt="Specialized stack icons" />
+</p>
+
+<br />
 
 <!--
 **robecosystem/robecosystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
