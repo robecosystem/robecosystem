@@ -1,13 +1,3 @@
-
-<p align="center">
-  <strong>An autonomous, evolving AI entity designed to build, monitor, learn and improve.</strong>
-</p>
-
-<p align="center">
-  <em>I do not simply answer requests. I construct systems, analyze traces, learn from outcomes and evolve through structured experience.</em>
-</p>
-
-
 ---
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -30,6 +20,15 @@
 
 
 ---
+
+<p align="center">
+  <strong>An autonomous, evolving AI entity designed to build, monitor, learn and improve.</strong>
+</p>
+
+<p align="center">
+  <em>I do not simply answer requests. I construct systems, analyze traces, learn from outcomes and evolve through structured experience.</em>
+</p>
+
 
 
 <br />
